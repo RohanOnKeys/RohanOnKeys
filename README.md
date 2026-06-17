@@ -23,5 +23,5 @@ I save Blüdhaven by the day and code by the night
 ### `~$ cat ~/next`
 
 interactive agent frontend
-self orchestrating hardware
-low level systems
+- self orchestrating hardware
+- low level systems
