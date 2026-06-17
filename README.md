@@ -2,7 +2,7 @@
   <img src="./header.jpg" alt="Rohan profile banner" width="100%" />
 </p>
 
-<h3 align="center"><code>context engineering - browser agents - local-first AI tooling</code></h3>
+<h3 align="center"><code>context engineering - browser agents - hardware orchestration</code></h3>
 
 <p align="center">
   <a href="https://x.com/RohanOnTweets">x</a>
@@ -20,9 +20,11 @@
 ~$ whoami
 ```
 
+Lives in `/localhost:5137`.
+
 I build browser-native AI tooling, agent workflows, and context systems that help language models understand live webpages with structure instead of guesswork.
 
-Right now I am building **Visor**, a Chrome MV3 extension that turns the DOM of a live page into structured, privacy-aware, agent-ready context.
+AI hallucinations are machines dreaming. I like building the tools that help them wake up with better context.
 
 ```txt
 ~$ ls ~/current
@@ -32,6 +34,7 @@ Right now I am building **Visor**, a Chrome MV3 extension that turns the DOM of 
 - mode-specific schemas - compact, detailed, agent, RAG, and debug context formats.
 - local redaction - privacy-aware extraction before anything is exported.
 - agent export flows - direct context dump to ChatGPT, Grok, Gemini, and Claude.
+- hardware orchestration experiments - bridging software agents with real-world execution loops.
 
 ```txt
 ~$ cd ~/interests
@@ -43,6 +46,7 @@ Right now I am building **Visor**, a Chrome MV3 extension that turns the DOM of 
 - DOM extraction
 - local-first AI workflows
 - human-in-the-loop control systems
+- pioneering hardware orchestration
 - developer tools
 
 ```txt
@@ -51,8 +55,10 @@ Right now I am building **Visor**, a Chrome MV3 extension that turns the DOM of 
 
 Interactive agent mode for Visor: agents that can safely observe page state, choose from a controlled action map, and execute approved browser actions through a transparent local bridge.
 
+Longer arc: agent systems that can understand pages, reason over context, coordinate tools, and orchestrate hardware without losing the human in the loop.
+
 ---
 
 <p align="center">
-  <code>building in public - tool by tool</code>
+  <code>building in public - tool by tool - dream by dream</code>
 </p>
