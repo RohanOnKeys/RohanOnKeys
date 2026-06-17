@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nightwingwallp.webp" alt="Rohan profile banner" width="80%" />
+  <img src="nightwingwallp.webp" alt="Rohan profile banner" width="100%" />
 </p>
 
 <h3 align="center"><code>quantum algorithms - browser agents - hardware orchestration</code></h3>
