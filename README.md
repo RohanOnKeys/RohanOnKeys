@@ -2,7 +2,7 @@
   <img src="./header.jpg" alt="Rohan profile banner" width="100%" />
 </p>
 
-<h3 align="center"><code>localhost:5137 - browser agents - hardware orchestration</code></h3>
+<h3 align="center"><code>quantum algorithms - browser agents - hardware orchestration</code></h3>
 
 <p align="center">
   <a href="https://x.com/RohanOnTweets"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -12,13 +12,16 @@
 
 ### `~$ whoami`
 
-AI hallucinations are machines dreaming. I build tools that give them better context.
+I save Blüdhaven by the day and code by the night
 
 ### `~$ ls ~/arsenal`
 
 - [Visor](https://github.com/RohanOnKeys/Visor) - DOM-to-agent context compiler for browser agents.
 - [Pipsy](https://github.com/RohanOnKeys/Pipsy) - hardware orchestration for real physical products.
+- Batman's toys, a pair of electrically charged Escrima sticks, retractable grappling guns, wing-gliders and smoke or flash pellets.
 
 ### `~$ cat ~/next`
 
-interactive agents - safe action maps - human-in-the-loop execution
+interactive agent frontend
+self orchestrating hardware
+low level systems
