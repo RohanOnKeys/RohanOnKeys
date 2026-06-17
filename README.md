@@ -5,13 +5,11 @@
 <h3 align="center"><code>context engineering - browser agents - hardware orchestration</code></h3>
 
 <p align="center">
-  <a href="https://x.com/RohanOnTweets">x</a>
-  &nbsp;.&nbsp;
-  <a href="https://in.linkedin.com/in/rohan-pattanayak-a142a1284">linkedin</a>
-  &nbsp;.&nbsp;
-  <a href="mailto:rohanpxquantum@gmail.com">mail</a>
-  &nbsp;.&nbsp;
-  <a href="https://github.com/RohanOnKeys/Visor">visor</a>
+  <a href="https://x.com/RohanOnTweets"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/rohan-pattanayak-a142a1284"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohanpxquantum@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RohanOnKeys/Visor"><img alt="Visor" src="https://img.shields.io/badge/Visor-1ED760?style=for-the-badge&logo=github&logoColor=001409" /></a>
+  <a href="https://github.com/RohanOnKeys/Pipsy"><img alt="Pipsy" src="https://img.shields.io/badge/Pipsy-101010?style=for-the-badge&logo=github&logoColor=1ED760" /></a>
 </p>
 
 <br />
@@ -27,14 +25,29 @@ I build browser-native AI tooling, agent workflows, and context systems that hel
 AI hallucinations are machines dreaming. I like building the tools that help them wake up with better context.
 
 ```txt
-~$ ls ~/current
+~$ ls ~/arsenal
 ```
 
-- [Visor](https://github.com/RohanOnKeys/Visor) - DOM-to-agent context compiler for browser agents.
+- [Visor](https://github.com/RohanOnKeys/Visor) - DOM-to-agent context compiler for browser agents. It turns live webpages into structured, privacy-aware context for ChatGPT, Grok, Gemini, Claude, and RAG pipelines.
+- [Pipsy](https://github.com/RohanOnKeys/Pipsy) - autonomous hardware orchestration platform for designing, validating, manufacturing, and sharing real physical products.
+
+```txt
+~$ ls ~/visor
+```
+
 - mode-specific schemas - compact, detailed, agent, RAG, and debug context formats.
 - local redaction - privacy-aware extraction before anything is exported.
 - agent export flows - direct context dump to ChatGPT, Grok, Gemini, and Claude.
-- hardware orchestration experiments - bridging software agents with real-world execution loops.
+- next: interactive agent mode with safe action maps and human approval.
+
+```txt
+~$ ls ~/pipsy
+```
+
+- PCB design and circuit simulation loops.
+- embedded integration and hardware validation workflows.
+- real-world product orchestration from idea to physical build.
+- next: software agents coordinating hardware without losing the human in the loop.
 
 ```txt
 ~$ cd ~/interests
