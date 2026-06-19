@@ -25,3 +25,4 @@ I save Blüdhaven by the day and code by the night
 - interactive agent frontend
 - self orchestrating hardware
 - low level systems
+- fighting crime
