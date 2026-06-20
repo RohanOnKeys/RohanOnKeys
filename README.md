@@ -10,11 +10,11 @@
   <a href="mailto:rohanpxquantum@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### `~$ whoami`
+### `~$ functions()`
 
 I save Blüdhaven by the day and code by the night
 
-### `~$ ls ~/arsenal`
+### `~$ ls ~/gadgets`
 
 - [Visor](https://github.com/RohanOnKeys/Visor) - DOM-to-agent context compiler for browser agents.
 - [Pipsy](https://github.com/RohanOnKeys/Pipsy) - hardware orchestration for real physical products.
