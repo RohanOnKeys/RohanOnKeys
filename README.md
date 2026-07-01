@@ -17,7 +17,7 @@ I save Blüdhaven by the day and code by the night
 ### `~$ ls ~/gadgets`
 
 - [Visor](https://github.com/RohanOnKeys/Visor) - DOM-to-agent context compiler for browser agents.
-- [Pipsy](https://github.com/RohanOnKeys/Pipsy) - hardware orchestration for real physical products.
+- [North-Star]([https://github.com/RohanOnKeys/North-Star]) - test bed for orbital data streaming 
 - Batman's toys, a pair of electrically charged Escrima sticks, retractable grappling guns, wing-gliders and smoke or flash pellets.
 
 ### `~$ cat ~/next`
