@@ -2,7 +2,7 @@
   <img src="nightwingwallp.webp" alt="Rohan profile banner" width="100%" />
 </p>
 
-<h3 align="center"><code>quantum algorithms - browser agents - hardware orchestration</code></h3>
+<h3 align="center"><code>courage-code-conquer</code></h3>
 
 <p align="center">
   <a href="https://x.com/RohanOnTweets"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
