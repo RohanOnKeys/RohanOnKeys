@@ -8,8 +8,7 @@
   <a href="https://x.com/RohanOnTweets"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:rohanpxquantum@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://rohax.in">
-  <img src="https://rohax.in/assets/favicon.svg" width="28" alt="rohax.in" />
-  <strong> rohax.in</strong>
+  <img src="https://rohax.in/assets/favicon.svg" height="28" alt="rohax.in" />
 </a>
 </p>
 
