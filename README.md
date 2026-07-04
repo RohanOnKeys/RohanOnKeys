@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://x.com/RohanOnTweets"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://in.linkedin.com/in/rohan-pattanayak-a142a1284"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rohanpxquantum@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
