@@ -5,11 +5,17 @@
 <h3 align="center"><code>courage-code-conquer</code></h3>
 
 <p align="center">
-  <a href="https://x.com/RohanOnTweets"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:rohanpxquantum@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/RohanOnTweets">
+    <img src="https://cdn.simpleicons.org/x/1D9BF0" height="28" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rohanpxquantum@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/1D9BF0" height="28" alt="Mail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://rohax.in">
-  <img src="https://rohax.in/assets/favicon.svg" height="28" alt="rohax.in" />
-</a>
+    <img src="https://rohax.in/assets/favicon.svg" height="28" alt="rohax.in" />
+  </a>
 </p>
 
 ### `~$ functions()`
@@ -19,7 +25,7 @@ I save Blüdhaven by the day and code by the night
 ### `~$ ls ~/gadgets`
 
 - [Visor](https://github.com/RohanOnKeys/Visor) - DOM-to-agent context compiler for browser agents.
-- [North-Star]([https://github.com/RohanOnKeys/North-Star]) - test bed for orbital data streaming 
+- [North-Star](https://github.com/RohanOnKeys/North-Star) - test bed for orbital data streaming
 - Batman's toys, a pair of electrically charged Escrima sticks, retractable grappling guns, wing-gliders and smoke or flash pellets.
 
 ### `~$ cat ~/next`
@@ -29,7 +35,6 @@ I save Blüdhaven by the day and code by the night
 - low level systems
 - fighting crime
 
-  
 ### `~$ git remote -v`
 
-[Rohax.in](https://rohax.in) 
+[Rohax.in](https://rohax.in)
