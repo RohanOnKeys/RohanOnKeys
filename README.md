@@ -18,9 +18,9 @@
   </a>
 </p>
 
-### `~$ functions()`
+### `~$ functions`
 
-I save Blüdhaven by the day and code by the night
+I fight crime by the day and code by the night
 
 ### `~$ ls ~/gadgets`
 
@@ -35,6 +35,6 @@ I save Blüdhaven by the day and code by the night
 - low level systems
 - fighting crime
 
-### `~$ git remote -v`
+### `~$ remote -v`
 
 [Rohax.in](https://rohax.in)
