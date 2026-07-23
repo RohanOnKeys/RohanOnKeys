@@ -37,4 +37,3 @@ I fight crime by the day and code by the night
 
 ### `~$ remote -v`
 
-[Rohax.in](https://rohax.in)
