@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://rohax.in">
-    <img src="https://rohax.in/assets/favicon.svg" height="24" alt="rohax.in" />
+    <img src="https://github.com/RohanOnKeys/Portfolio/blob/master/assets/favicon.png" height="24" alt="rohax.in" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hashnode.com/@rohax">
