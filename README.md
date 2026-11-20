@@ -28,13 +28,13 @@ Patrolling the city by day, shipping code by night.
 
 ### `~$ ls ~/gadgets`
 
-- [langX](https://github.com/RohanOnKeys/langX) - fault-tolerant LangGraph agents on HPX. Kill a worker mid-step and nothing is lost or committed twice.
-- [Ariadne](https://github.com/RohanOnKeys/Ariadne) - astrodynamics toolkit for orbit propagation, EKF/UKF estimation and conjunction screening on live satellite catalogs.
+- [langX](https://github.com/RohanOnKeys/langX) - fault-tolerant LangGraph agents on HPX.
+- [Ariadne](https://github.com/RohanOnKeys/Ariadne) - astrodynamics toolkit for orbit propagation, EKF/UKF estimation and conjunction screening
 - [North-Star](https://github.com/RohanOnKeys/North-Star) - encrypted, resumable data transfer that survives broken satellite pass windows.
 - [Freight](https://github.com/RohanOnKeys/Freight) - distributed CI/CD with DAG scheduling, Docker runners and dead-runner recovery.
 - [Crabbit](https://github.com/RohanOnKeys/crabbit) - search engine in Rust and Tokio with BM25 ranking.
 - [Visor](https://github.com/RohanOnKeys/Visor) - compiles the DOM into clean, usable context for browser agents.
-- Borrowed from the Batcave: electrified Escrima sticks, grapple guns, wing-gliders, and a pocket full of smoke and flash pellets.
+- Electrified Escrima sticks, grapple guns, wing-gliders, and a pocket full of smoke and flash pellets.
 
 ### `~$ git log --upstream`
 
