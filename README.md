@@ -9,6 +9,10 @@
     <img src="https://cdn.simpleicons.org/x/1D9BF0" height="24" alt="X" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rohan-pattanayak-a142a1284">
+    <img src="https://img.icons8.com/ios-filled/50/1D9BF0/linkedin.png" height="24" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:rohanpxquantum@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/1D9BF0" height="24" alt="Mail" />
   </a>
